@@ -54,7 +54,7 @@ echo "Kui esimene arv jagame teise arvuga, siis vastuseks ".($arv1/$arv2);
     Leia ilusad värvi nimed siit: http://www.w3schools.com/colors/colors_names.asp<br>
     Kuva tsükliga välja värvuste nimed ja värvi need sama värvi nt. <br>
     &#60; span style='color: cyan' &#62; cyan - sinine taevas &#60; /span &#62;</p>
-
+<a href="Harjutused/403.php"> Ülesanne 403</a>
 
 
 <p>================================</p><br>
